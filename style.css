@@ -1,0 +1,65 @@
+body {
+  background-image:url(sfondo.jpg) ;
+  background-size: 100% ;
+
+}
+header{
+justify-items: center;
+
+}
+h1{
+color: rgb(28, 244, 17);
+}
+img{
+  margin-top: 50px;
+  width: 190px;
+  height: 80px
+
+  }
+.verde{
+  text-align: center;
+  padding: 10px 1px 1px 1px;
+  background-color: rgb(28, 244, 17);
+  width: 800px;
+  height: 30px
+
+    }
+.tut{
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 1000px;
+  margin-left: 300px;
+  margin-top: 50px;
+  border-radius: 15px;
+  padding-bottom: 28px;
+  }
+
+.tat{
+    margin-left: 94px;
+    margin-top: 30px;
+    }
+
+.eliz{
+  color: white;
+  }
+
+label {
+  font-size: 25px;
+    }
+
+#poppp{
+  border-radius: 7px;
+  background-color: orange;
+  width: 40%;
+}
+#popp{
+  border-radius: 7px;
+  background-color: green;
+  width: 60%;
+}
+
+
+#pop{
+  border-radius: 7px;
+  background-color: brown;
+  width: 20%;
+}
